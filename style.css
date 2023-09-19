@@ -25,6 +25,7 @@ header2{
 }
 main{
     background-color: white;
+    color:blue;
     margin: 0;
     padding: 40px 10px 40px 10px;
     display: flex;
