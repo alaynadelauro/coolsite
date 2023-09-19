@@ -7,6 +7,9 @@ header1{
     justify-content: space-between;
     max-height: 10vh;
 }
+body{
+    margin: 0px;
+}
 .menu{
     display: flex;
     justify-content: space-between;
@@ -26,13 +29,13 @@ main{
     padding: 40px 10px 40px 10px;
     display: flex;
     flex-wrap: nowrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-content: stretch;
 
 }
 
 footer{
-    background-color:bisque;
+    background-color:rgb(226, 229, 236);
     display: flex;
     height: 30vh;
     flex-direction:column;
