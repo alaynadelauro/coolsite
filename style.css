@@ -1,0 +1,45 @@
+header1{
+    background-color: rgb(9, 9, 78);
+    color: white;
+    margin: 0;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-between;
+    max-height: 10vh;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+header2{
+    background-color: rgb(9, 9, 78);
+    color: white;
+    margin: 0px;
+    padding: 10px;
+    display: flex;
+}
+main{
+    background-color: white;
+    margin: 0;
+    padding: 40px 10px 40px 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: stretch;
+
+}
+
+footer{
+    background-color:bisque;
+    display: flex;
+    height: 30vh;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.services{
+    color:yellow;
+}
